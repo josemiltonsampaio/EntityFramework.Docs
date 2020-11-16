@@ -153,6 +153,8 @@ additionalContent:
             text: "Raw SQL queries"
           - url: core/querying/filters.md
             text: "Global query filters"
+          - url: core/querying/user-defined-function-mapping.md
+            text: "User-defined function mapping"
       # Card
       - title: Manage database schemas
         links:
