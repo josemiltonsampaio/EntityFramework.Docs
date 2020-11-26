@@ -19,6 +19,7 @@
         "queryable",
         "savepoint",
         "savepoints",
+        "serializable",
         "subquery"
     ]
 }
