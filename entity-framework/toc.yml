@@ -20,6 +20,8 @@
     items:
     - name: Welcome!
       href: core/index.md
+    - name: "What's new in EF Core 5.0"
+      href: core/what-is-new/ef-core-5.0/whatsnew.md
     - name: Getting started
       items:
       - name: EF Core Overview
